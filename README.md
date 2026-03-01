@@ -59,17 +59,6 @@ The project follows a modular object-oriented structure:
 - **LevelManager** → Level progression manager
 - **CollisionDetector** → Handles collision detection
 
-### Game Loop Structure
-
-```java
-while (isRunning) {
-    update();
-    draw();
-}
-```
-
----
-
 # 🚀 Getting Started
 
 ## Requirements
@@ -77,21 +66,6 @@ while (isRunning) {
 - Android Studio
 - Android SDK (API 21+)
 - Android device or emulator
-
-## Run the Project
-
-1. Clone the repository
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Open the project in Android Studio
-
-3. Allow Gradle to sync
-
-4. Click **Run ▶** to install and launch the app
-
----
 
 # 🎮 Controls
 
